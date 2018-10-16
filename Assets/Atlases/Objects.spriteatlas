@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Objects
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 10a8f8896331e7d4eaafe64eaa59b5e6, type: 3}
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 90f91bf07d6aec14bb60e830bf64792c, type: 3}
+  - {fileID: 21300000, guid: b24d8371c5d8d4523bb53376999757c3, type: 3}
+  - {fileID: 21300000, guid: fa3bccb15aacf430e8ac3499d2338d31, type: 3}
+  - {fileID: 21300000, guid: 1304343364e1ade40a93931a5dacc822, type: 3}
+  - {fileID: 21300000, guid: 5be9b4c5270e8eb48ac9e24389566ec1, type: 3}
+  - {fileID: 21300002, guid: 555975464417842748951a085f3cf3ba, type: 3}
+  - {fileID: 21300000, guid: 555975464417842748951a085f3cf3ba, type: 3}
+  - {fileID: 21300000, guid: a0aa6196d79b5db419e9a18c8927b98a, type: 3}
+  - {fileID: 21300000, guid: 86ce912717672b8429c58e6960c12e25, type: 3}
+  - {fileID: 21300000, guid: 9a9871d79d525ab499dd167fd35c46ad, type: 3}
+  - {fileID: 21300000, guid: 91a6f4c9b969b4bb9866c25cba77273c, type: 3}
+  - {fileID: 21300004, guid: a9c136f9dcfd3954fa0f3fab6260607f, type: 3}
+  - {fileID: 21300002, guid: a9c136f9dcfd3954fa0f3fab6260607f, type: 3}
+  - {fileID: 21300000, guid: a9c136f9dcfd3954fa0f3fab6260607f, type: 3}
+  - {fileID: 21300000, guid: 7931262bee02b4179ab843cecd12cb07, type: 3}
+  - {fileID: 21300000, guid: 84c7c25bd260747be85456fa9c48c4b0, type: 3}
+  - {fileID: 21300000, guid: 23f2dcab7a131324d922cfb2bd07db80, type: 3}
+  - {fileID: 21300000, guid: 5816beacfd8204e4fa223255ce2ac467, type: 3}
+  - {fileID: 21300000, guid: ff84aacc54bb8d843be32e8d39412a39, type: 3}
+  - {fileID: 21300000, guid: d235556d311cd497b993de7aa11961d4, type: 3}
+  - {fileID: 21300000, guid: 5853b6ddaa2b364478a6de1223809f57, type: 3}
+  - {fileID: 21300000, guid: a03a39af61d16d94298132cfd5437225, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TruckChassisSprite
+  - CatapultFrontSprite
+  - MagnetSprite
+  - WeightSprite
+  - RocketSprite
+  - CatapultSprite_1
+  - CatapultSprite_0
+  - TruckWheelSprite
+  - BirdEnemyFlapSprite
+  - BirdEnemyDeathSprite
+  - BombSprite
+  - BirdHero_2
+  - BirdHero_1
+  - BirdHero_0
+  - BallSprite
+  - CatapultBackSprite
+  - BombLitSprite
+  - BowlingBallSprite
+  - EnemyIdleSprite_0
+  - CoinSprite
+  - HatSprite
+  - SpringSprite
+  m_Tag: Objects
+  m_IsVariant: 0

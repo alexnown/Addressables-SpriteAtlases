@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ui
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0b2a300e153bb6a439228e7b2a9d6f43, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6ab2ff034573064449b8c5466739fa23, type: 3}
+  - {fileID: 21300000, guid: 4b5eeb73b915fa84a980f6bce0b905de, type: 3}
+  - {fileID: 21300000, guid: 0dbf0796eff2d254381244d5bf00a9e3, type: 3}
+  - {fileID: 21300000, guid: db4eae29dd580d244828b85ac2501f6c, type: 3}
+  - {fileID: 21300000, guid: a414f6cc2bd8e5745a003049a80c3fa5, type: 3}
+  - {fileID: 21300000, guid: aae8c4bea03b8aa47814af68b1dea886, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - StartHoverSprite
+  - StartIdleSprite
+  - RestartHoverSprite
+  - RestartIdleSprite
+  - RestartPressSprite
+  - StartPressSprite
+  m_Tag: Ui
+  m_IsVariant: 0
