@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LoadAtlasesFromDifferentPlaces.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LoadingPrefabFromResources.unity
+    guid: 6f21227b1b83243449c6fff3371b2b5c
+  - enabled: 1
+    path: Assets/Scenes/LoadingPrefabFromAddressables.unity
+    guid: 233beab254cefae49ac7d101ba3201e3
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 7afdfadb0174dd74e9aeffd1e7d5bf51,
       type: 2}

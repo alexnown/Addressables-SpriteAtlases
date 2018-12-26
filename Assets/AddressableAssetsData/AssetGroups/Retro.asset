@@ -21,6 +21,10 @@ MonoBehaviour:
     m_Address: RetroGroupAtlas
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: abfcd76777189f24ba1852758b60800b
+    m_Address: RetroShipAddr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 1485eb9ba5dbb8f41a675de1eaaefc4a, type: 2}
   m_SchemaSet:
