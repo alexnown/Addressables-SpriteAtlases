@@ -4,8 +4,9 @@
 SpriteAtlas:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: Retro
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RetroGroupAtlas
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -19,7 +20,18 @@ SpriteAtlas:
       readable: 0
       crunchedCompression: 0
       sRGB: 1
-    platformSettings: []
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
     packingSettings:
       serializedVersion: 2
       padding: 4
@@ -30,6 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: eb4227df7c8b97c48a6f9459793b9274, type: 3}
+    totalSpriteSurfaceArea: 114688
     bindAsDefault: 0
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -98,5 +111,5 @@ SpriteAtlas:
   - Spaceship_7
   - Spaceship_8
   - Spaceship_9
-  m_Tag: Retro
+  m_Tag: RetroGroupAtlas
   m_IsVariant: 0

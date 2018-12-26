@@ -10,8 +10,8 @@ namespace alexnown.AddressablesAndAtlases
         {
             for (int i = 0; i < Prefabs.Length; i++)
             {
-                Instantiate(Prefabs[i], 3 * Random.insideUnitCircle, Quaternion.identity);
-                Loader.Log($"{Time.frameCount}: {Prefabs[i].name} prefab instantiated.");
+                var obj = Instantiate(Prefabs[i], 2 * Vector2.right +3 * Random.insideUnitCircle, Quaternion.identity);
+                DebugLogger.Log($"{Prefabs[i].name} prefab instantiatedfrom spawner.", obj);
             }
         }
     }

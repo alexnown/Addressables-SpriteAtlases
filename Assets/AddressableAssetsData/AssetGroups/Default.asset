@@ -10,20 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Retro
+  m_Name: Default
   m_EditorClassIdentifier: 
-  m_GroupName: Retro
+  m_GroupName: Default
   m_Data:
     m_SerializedData: []
-  m_GUID: 9115625873439114a9e56b43f1df0767
+  m_GUID: 4a295ce63cb62cf4d9b3f7d0afff234b
   m_SerializeEntries:
-  - m_GUID: 2482538445916d646a8c040ceb48855f
-    m_Address: RetroGroupAtlas
+  - m_GUID: 06eb6ffac795a034a96f891465e93c88
+    m_Address: DefaultGroupAtlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79d77eae848b0aa4894f44ca9dc87f08
+    m_Address: SpawnerAddr
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 1485eb9ba5dbb8f41a675de1eaaefc4a, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: eadb6ecf3d34a0b4a9db04aeb482305e, type: 2}
-    - {fileID: 11400000, guid: 80f55f31444ab734583687893c8c7707, type: 2}
+    - {fileID: 11400000, guid: 383a6f08d5627bf45a6741650aeee756, type: 2}
+    - {fileID: 11400000, guid: ddd11517efe48764aad271795b10e2d4, type: 2}
